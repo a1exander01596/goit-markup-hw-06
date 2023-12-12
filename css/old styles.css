@@ -93,51 +93,6 @@ img {
 
 /* /COMMON STYLES */
 
-/* MOBILE HEADER STYLES */
-
-.menu {
-  display: none;
-}
-
-.contacts {
-  display: none;
-}
-
-.page-header {
-  padding: 16px;
-  border-bottom: 1px solid #e7e9fc;
-  box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
-}
-
-.logo {
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
-}
-
-.logo-part {
-  font-family: "Raleway", sans-serif;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #2e2f42;
-}
-
-.page-navigation-container {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-/* /MOBILE HEADER STYLES */
-
 /* HEADER */
 
 .page-header {
