@@ -654,6 +654,13 @@ img {
   flex-direction: column;
   row-gap: 48px;
 }
+
+.our-portfolio-list-item {
+  background: #fff;
+  border-radius: 0px 0px 4px 4px;
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 /* /PORTFOLIO STYLES */
 
 /* TABLET PORTFOLIO STYLES */
